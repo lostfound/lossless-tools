@@ -7,7 +7,7 @@ apemustdie.py:
 		* apemustdie DIR
 			- converts all ape files in DIR and subdirectories.
 	DEPENDENCES:
-		* python 2.6 or highter
+		* python 2.6 or higher
 		* mutagen [ aptitude install python-mutagen ]
 		* mac [ aptitude install monkeys-audio ]
 		* flac [ aptitude install flac ]
