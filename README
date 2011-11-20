@@ -1,0 +1,15 @@
+Some scripts for manipulating your lossless audio collection.
+
+apemustdie.py:
+	DESCRIPTION:
+		* apemustdie converts .ape files to flac, fixes cuesheets and saves tags.
+	USAGE:
+		* apemustdie DIR
+			- converts all ape files in DIR and subdirectories.
+	DEPENDENCES:
+		* python 2.6 or highter
+		* mutagen [ aptitude install python-mutagen ]
+		* mac [ aptitude install monkeys-audio ]
+		* flac [ aptitude install flac ]
+	
+
