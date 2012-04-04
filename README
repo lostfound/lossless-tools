@@ -9,7 +9,7 @@ apemustdie.py:
 	DEPENDENCES:
 		* python 2.6 or higher
 		* mutagen [ aptitude install python-mutagen ]
-		* mac [ aptitude install monkeys-audio ]
+		* mac [ aptitude install monkeys-audio or emerge media-sound/mac ]
 		* flac [ aptitude install flac ]
 	
 
