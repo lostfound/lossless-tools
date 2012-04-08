@@ -10,6 +10,7 @@ apemustdie.py:
 		* python 2.6 or higher
 		* mutagen [ aptitude install python-mutagen ]
 		* mac [ aptitude install monkeys-audio or emerge media-sound/mac ]
+		       http://etree.org/shnutils/shntool/support/formats/ape/unix/3.99-u4-b5/mac-3.99-u4-b5.tar.gz
 		* flac [ aptitude install flac ]
 	
 
