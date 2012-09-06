@@ -27,11 +27,14 @@ apemustdie converts .ape files to flac, fixes cuesheets and saves tags.
 
 ## Usage:
     * apemustdie DIR
-converts all ape files in DIR and subdirectories.
+ converts all ape files in DIR and subdirectories.
 
 ## Dependences:
+
 python 2.6 or higher
+
 mutagen [ aptitude install python-mutagen ]
+
 mac [ aptitude install monkeys-audio or emerge media-sound/mac ]
 
     http://etree.org/shnutils/shntool/support/formats/ape/unix/3.99-u4-b5/mac-3.99-u4-b5.tar.gz
